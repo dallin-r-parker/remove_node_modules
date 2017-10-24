@@ -1,0 +1,10 @@
+{
+  "name": "remove_node_modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.19.1",
+    "shelljs": "^0.7.8"
+  }
+}
